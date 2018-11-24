@@ -152,3 +152,4 @@ def KmeansPlus(X, k):
 
 print KmeansPlus(X, 4)
 
+print("test")
