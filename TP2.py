@@ -152,6 +152,3 @@ def KmeansPlus(X, k):
 
 print KmeansPlus(X, 4)
 
-print("Nabil est la ")
-
-print ("Oui il est la ")
