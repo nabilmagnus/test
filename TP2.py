@@ -152,7 +152,4 @@ def KmeansPlus(X, k):
 
 print KmeansPlus(X, 4)
 
-
-print("NABIL EST LA ")
-
-
+print("Yaw te pas la ")
